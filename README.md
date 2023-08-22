@@ -37,6 +37,7 @@ _**Desenvolva uma calculadora utilizando HTML, CSS e Javascript que seja capaz d
 
 **_Na figura a seguir é possível ver uma possível implementação da calculadora._**
 
-![](file:///C:/Users/alex.miranda/Downloads/calc.png)
+![calc](https://github.com/amsbogea/Calculadora/assets/32579231/24d45d43-6e8c-4c64-bf64-43c609ee5cf0)
+
 
 **Limite a entrada de dados do visor, i.e., não permita que o usuário digite dados no visor.**
