@@ -1,0 +1,23 @@
+#display {
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    width: 100px;
+    height: 20px;
+}
+
+#um, #dois, #tres, #quatro, #cinco, #seis, #sete, #oito, #nove, #zero {
+    font-size:  20px;
+    color: black;
+    background-color: white;
+    width: 50px;
+    height: 20px;
+}
+
+#mais, #menos, #multiplicacao, #divisao, #igual {
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    width: 50px;
+    height: 20px;
+  }
